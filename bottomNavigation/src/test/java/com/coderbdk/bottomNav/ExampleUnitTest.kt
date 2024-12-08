@@ -1,4 +1,4 @@
-package com.coderbdk.bottomNavigation
+package com.coderbdk.bottomNav
 
 import org.junit.Test
 

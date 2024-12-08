@@ -1,4 +1,4 @@
-package com.coderbdk.bottomNavigation
+package com.coderbdk.bottomNav
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
